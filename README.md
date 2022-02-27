@@ -1,4 +1,4 @@
-# Data Analysis and Prediction on Certificate of Entitilement (COE) Prices
+# Data Analysis and Prediction on Certificate of Entitlement (COE) Prices
 
 ## 1. About
 
@@ -42,7 +42,7 @@ scipy
 
 #### `2.model.ipynb`
 
-> Preparing data for model training <br>
+> Data preparation for model training <br>
 > Scripts for model training <br>
 > Evaluation of models performance <br>
 > Visualisation of models prediction <br>
